@@ -19,7 +19,7 @@ This project is a ProfessionLink clone, aiming to provide a professional social 
 ## Tech Stack
 - **Frontend:** React.js, Redux (optional for state management), HTML, CSS.
 
-- **Backend:** Node.js, Express.js, MongoDB (or any other database), RESTful API.
+- **Backend:** Firebase V9.
 
 - **Authentication:** JSON Web Tokens (JWT).
 
