@@ -11,6 +11,7 @@ function Header() {
             </div>
 
             <div className="header__search">
+            {/* icon */}
                 <input type="text" />
             </div>
 
