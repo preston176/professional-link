@@ -4,6 +4,7 @@ import SearchIcon from '@mui/icons-material/Search';
 import HeaderOption from './HeaderOption';
 import HomeIcon from '@mui/icons-material/Home';
 import SupervisorAccountIcon from '@mui/icons-material/SupervisorAccount';
+import BusinessCenterIcon from '@mui/icons-material/BusinessCenter';
 
 function Header() {
     return (
@@ -23,6 +24,8 @@ function Header() {
 
                 <HeaderOption Icon={HomeIcon} title="Home" />
                 <HeaderOption Icon={SupervisorAccountIcon} title="My Network" />
+                <HeaderOption Icon={BusinessCenterIcon} title="Jobs" />
+            
             </div>
         </div>
     )
