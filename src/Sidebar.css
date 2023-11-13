@@ -15,6 +15,10 @@
   font-size: 12px;
 }
 
+.sidebar__top > h2 {
+  font-size: 18px;
+}
+
 .sidebar__top {
   display: flex;
   flex-direction: column;
