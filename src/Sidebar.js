@@ -25,6 +25,9 @@ function Sidebar() {
                     </p>
                 </div>
             </div>
+            <div className="sidebar__bottom">
+                <p>Recent</p>
+            </div>
         </div>
     )
 }
