@@ -10,6 +10,10 @@
 .sidebar__avatar {
   margin-bottom: 10px;
 }
+.sidebar__top > h4 {
+  color: gray;
+  font-size: 12px;
+}
 
 .sidebar__top {
   display: flex;
